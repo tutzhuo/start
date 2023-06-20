@@ -1,6 +1,6 @@
 # start
 # Self study process
-# 每周更新
+#
 # 转专业 自学 机器学习-pytorch-图像处理 过程
 # 1.台大李弘毅机器学习课程 （10%）
 # 2.b站小土堆pytorch入门（100%)
